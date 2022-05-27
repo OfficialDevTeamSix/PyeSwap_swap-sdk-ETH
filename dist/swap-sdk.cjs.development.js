@@ -777,7 +777,7 @@ var Pair = /*#__PURE__*/function () {
     var _PAIR_ADDRESS_CACHE, _PAIR_ADDRESS_CACHE$t;
 
     if (chainId === void 0) {
-      chainId = exports.ChainId.TESTNET;
+      chainId = exports.ChainId.MAINNET;
     }
 
     var tokens = tokenA.sortsBefore(tokenB) ? [tokenA, tokenB] : [tokenB, tokenA]; // does safety checks
