@@ -1,5 +1,5 @@
 {
-  "name": "@pyeswap/swap-sdk",
+  "name": "@pyeswap/swap-sdk-eth",
   "license": "MIT",
   "version": "3.4.8",
   "description": "🛠 An SDK for building applications on top of PYE Swap.",
